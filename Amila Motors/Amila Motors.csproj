@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{031903B2-B2A8-4FD4-BDB0-F02724186752}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Amila_Motors</RootNamespace>
+    <AssemblyName>Amila Motors</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppointmentForm.Designer.cs">
+      <DependentUpon>AppointmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignTask.Designer.cs">
+      <DependentUpon>AssignTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Complaint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Complaint.Designer.cs">
+      <DependentUpon>Complaint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CostCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CostCalculation.Designer.cs">
+      <DependentUpon>CostCalculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerCareAssistantDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerCareAssistantDashboard.Designer.cs">
+      <DependentUpon>CustomerCareAssistantDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerCareAssistantManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerCareAssistantManagement.Designer.cs">
+      <DependentUpon>CustomerCareAssistantManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Job.Designer.cs">
+      <DependentUpon>Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobCompletionUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobCompletionUpdate.Designer.cs">
+      <DependentUpon>JobCompletionUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobCoordinatorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobCoordinatorDashboard.Designer.cs">
+      <DependentUpon>JobCoordinatorDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobCoordinatorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobCoordinatorManagement.Designer.cs">
+      <DependentUpon>JobCoordinatorManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobCosting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobCosting.Designer.cs">
+      <DependentUpon>JobCosting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobTimeTrackingReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobTimeTrackingReport.Designer.cs">
+      <DependentUpon>JobTimeTrackingReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaborCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaborCost.Designer.cs">
+      <DependentUpon>LaborCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaborDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaborDashboard.Designer.cs">
+      <DependentUpon>LaborDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Labor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Labor.Designer.cs">
+      <DependentUpon>Labor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaborReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaborReport.Designer.cs">
+      <DependentUpon>LaborReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerDashboard.Designer.cs">
+      <DependentUpon>ManagerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerManagement.Designer.cs">
+      <DependentUpon>ManagerManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyIncomeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyIncomeReport.Designer.cs">
+      <DependentUpon>MonthlyIncomeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRN.Designer.cs">
+      <DependentUpon>GRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentReceipt.Designer.cs">
+      <DependentUpon>PaymentReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchCustomerInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchCustomerInterface.Designer.cs">
+      <DependentUpon>SearchCustomerInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SparePartAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SparePartAssignment.Designer.cs">
+      <DependentUpon>SparePartAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SparePartReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SparePartReport.Designer.cs">
+      <DependentUpon>SparePartReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierItemAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierItemAssignment.Designer.cs">
+      <DependentUpon>SupplierItemAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemAdministratorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemAdministratorDashboard.Designer.cs">
+      <DependentUpon>SystemAdministratorDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemAdministratorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemAdministratorManagement.Designer.cs">
+      <DependentUpon>SystemAdministratorManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemBackup.Designer.cs">
+      <DependentUpon>SystemBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateJobStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateJobStatus.Designer.cs">
+      <DependentUpon>UpdateJobStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicle.Designer.cs">
+      <DependentUpon>Vehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Assigned Jobs Interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Assigned Jobs Interface.Designer.cs">
+      <DependentUpon>View Assigned Jobs Interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewInquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewInquiry.Designer.cs">
+      <DependentUpon>ViewInquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewJobStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewJobStatus.Designer.cs">
+      <DependentUpon>ViewJobStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewLaborPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewLaborPerformance.Designer.cs">
+      <DependentUpon>ViewLaborPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewOrderStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewOrderStatus.Designer.cs">
+      <DependentUpon>ViewOrderStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPaymentStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPaymentStatus.Designer.cs">
+      <DependentUpon>ViewPaymentStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProfile.Designer.cs">
+      <DependentUpon>ViewProfile.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AppointmentForm.resx">
+      <DependentUpon>AppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignTask.resx">
+      <DependentUpon>AssignTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Complaint.resx">
+      <DependentUpon>Complaint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CostCalculation.resx">
+      <DependentUpon>CostCalculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerCareAssistantDashboard.resx">
+      <DependentUpon>CustomerCareAssistantDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerCareAssistantManagement.resx">
+      <DependentUpon>CustomerCareAssistantManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Job.resx">
+      <DependentUpon>Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobCompletionUpdate.resx">
+      <DependentUpon>JobCompletionUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobCoordinatorDashboard.resx">
+      <DependentUpon>JobCoordinatorDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobCoordinatorManagement.resx">
+      <DependentUpon>JobCoordinatorManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobCosting.resx">
+      <DependentUpon>JobCosting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobTimeTrackingReport.resx">
+      <DependentUpon>JobTimeTrackingReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaborCost.resx">
+      <DependentUpon>LaborCost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaborDashboard.resx">
+      <DependentUpon>LaborDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Labor.resx">
+      <DependentUpon>Labor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaborReport.resx">
+      <DependentUpon>LaborReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerDashboard.resx">
+      <DependentUpon>ManagerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerManagement.resx">
+      <DependentUpon>ManagerManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyIncomeReport.resx">
+      <DependentUpon>MonthlyIncomeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRN.resx">
+      <DependentUpon>GRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentReceipt.resx">
+      <DependentUpon>PaymentReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchCustomerInterface.resx">
+      <DependentUpon>SearchCustomerInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SparePartAssignment.resx">
+      <DependentUpon>SparePartAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SparePartReport.resx">
+      <DependentUpon>SparePartReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierItemAssignment.resx">
+      <DependentUpon>SupplierItemAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemAdministratorDashboard.resx">
+      <DependentUpon>SystemAdministratorDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemAdministratorManagement.resx">
+      <DependentUpon>SystemAdministratorManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemBackup.resx">
+      <DependentUpon>SystemBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateJobStatus.resx">
+      <DependentUpon>UpdateJobStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicle.resx">
+      <DependentUpon>Vehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Assigned Jobs Interface.resx">
+      <DependentUpon>View Assigned Jobs Interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewInquiry.resx">
+      <DependentUpon>ViewInquiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewJobStatus.resx">
+      <DependentUpon>ViewJobStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLaborPerformance.resx">
+      <DependentUpon>ViewLaborPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewOrderStatus.resx">
+      <DependentUpon>ViewOrderStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPaymentStatus.resx">
+      <DependentUpon>ViewPaymentStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProfile.resx">
+      <DependentUpon>ViewProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

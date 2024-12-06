@@ -1,0 +1,291 @@
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\bin\Debug\Amila Motors.exe.config
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\bin\Debug\Amila Motors.exe
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\bin\Debug\Amila Motors.pdb
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Amila_Motors.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila Motors.exe
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila Motors.pdb
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Stocks.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Employees.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\Amila Motors.exe.config
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\Amila Motors.exe
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\Amila Motors.pdb
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.Shared.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\bin\Debug\stdole.dll
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.AssemblyReference.cache
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Attendance.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Complaint.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.CostCalculation.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Customer.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.CustomerCareAssistantDashboard.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Job.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.JobCoordinatorDashboard.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.JobTimeTrackingReport.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.LaborDashboard.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Labor.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.LaborReport.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Login.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ManagerDashboard.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.MonthlyIncomeReport.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Order.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Payment.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.PaymentReceipt.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Properties.Resources.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Inventory.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SearchCustomer.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SparePartReport.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Supplier.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SupplierDashboard.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SystemAdministratorDashboard.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SystemBackupAndRestore.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.UpdateJobProgress.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.User.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Vehicle.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.View_Assigned_Jobs_Interface.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewInquiry.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewJobStatus.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewProfile.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.GenerateResource.cache
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.CoreCompileInputs.cache
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.CopyComplete
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila Motors.exe
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila Motors.pdb
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.AppointmentForm.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Notification.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SparePartAssignment.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.UpdateJobStatus.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewLaborPerformance.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewOrderStatus.resources
+D:\NIBM\Diploma\Final Project\Final Project UIs\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewPaymentStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\Amila Motors.exe.config
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\Amila Motors.exe
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\Amila Motors.pdb
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\bin\Debug\stdole.dll
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.AppointmentForm.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Attendance.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Complaint.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.CostCalculation.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Customer.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.CustomerCareAssistantDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Job.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.JobCoordinatorDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.JobTimeTrackingReport.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.LaborDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Labor.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.LaborReport.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Login.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ManagerDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.MonthlyIncomeReport.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Notification.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Order.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Payment.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.PaymentReceipt.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Inventory.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SearchCustomer.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SparePartAssignment.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SparePartReport.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Supplier.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SupplierDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SystemAdministratorDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.SystemBackupAndRestore.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.UpdateJobProgress.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.UpdateJobStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.User.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.Vehicle.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.View_Assigned_Jobs_Interface.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewInquiry.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewJobStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewLaborPerformance.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewOrderStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewPaymentStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila_Motors.ViewProfile.resources
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.csproj.CopyComplete
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.exe
+C:\Users\ahmed\OneDrive\Desktop\NIBM\Final Project\Amila Motors\Amila Motors\Amila Motors\obj\Debug\Amila Motors.pdb
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.AppoinmentForm.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.AssignTask.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Attendance.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Complaint.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.CostCalculation.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Customer.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.CustomerCareAssistantDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.CustomerCareAssistantManagement.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Invoice.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Job.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.JobCompletionUpdate.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.JobCoordinatorDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.JobCoordinatorManagement.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.JobCosting.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.JobTimeTrackingReport.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.LaborCost.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.LaborDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Labor.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.LaborReport.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Login.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ManagerDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ManagerManagement.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.MonthlyIncomeReport.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Notification.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.GRN.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Payment.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.PaymentReceipt.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Inventory.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SearchCustomerInterface.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SparePartAssignment.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SparePartReport.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Supplier.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SupplierDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SupplierItemAssignment.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SystemAdministratorDashboard.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SystemAdministratorManagement.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.SystemBackup.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.UpdateJobStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.User.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Vehicle.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.View_Assigned_Jobs_Interface.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ViewInquiry.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ViewJobStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ViewLaborPerformance.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ViewOrderStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ViewPaymentStatus.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.ViewProfile.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.exe
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.pdb
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila_Motors.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\Amila Motors.exe.config
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\Amila Motors.exe
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\Amila Motors.pdb
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\bin\Debug\stdole.dll
+C:\Users\ahmed\OneDrive\Desktop\GitHub\Amila-Motors-Group\Amila Motors\obj\Debug\Amila Motors.csproj.CopyComplete
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\Amila Motors.exe.config
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\Amila Motors.exe
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\Amila Motors.pdb
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.Shared.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\bin\Debug\stdole.dll
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila Motors.csproj.AssemblyReference.cache
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.AppoinmentForm.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.AssignTask.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Attendance.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Complaint.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.CostCalculation.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Customer.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.CustomerCareAssistantDashboard.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.CustomerCareAssistantManagement.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Invoice.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Job.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.JobCompletionUpdate.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.JobCoordinatorDashboard.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.JobCoordinatorManagement.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.JobCosting.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.JobTimeTrackingReport.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.LaborCost.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.LaborDashboard.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Labor.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.LaborReport.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Login.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ManagerDashboard.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ManagerManagement.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.MonthlyIncomeReport.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.GRN.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Payment.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.PaymentReceipt.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Properties.Resources.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Inventory.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SearchCustomerInterface.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SparePartAssignment.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SparePartReport.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Supplier.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SupplierItemAssignment.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SystemAdministratorDashboard.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SystemAdministratorManagement.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.SystemBackup.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.UpdateJobStatus.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.User.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.Vehicle.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.View_Assigned_Jobs_Interface.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ViewInquiry.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ViewJobStatus.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ViewLaborPerformance.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ViewOrderStatus.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ViewPaymentStatus.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila_Motors.ViewProfile.resources
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila Motors.csproj.GenerateResource.cache
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila Motors.csproj.CoreCompileInputs.cache
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila Motors.csproj.CopyComplete
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila Motors.exe
+D:\NIBM\Diploma\Final Project\Amila-Motos-Project\Amila Motors\obj\Debug\Amila Motors.pdb
